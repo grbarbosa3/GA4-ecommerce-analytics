@@ -76,17 +76,6 @@ Foram criadas tabelas de apoio no BigQuery para organizar os dados em camadas ma
   
 ### 3. Visualização
 As tabelas analíticas foram conectadas ao Power BI para construção do dashboard final.
-*Visão Geral*
-
-<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/dd4ba62a-dc49-4ba3-9380-36d3f08c4f16" />
-
-*Análise de Produtos*
-
-<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/a49f92ba-3548-4408-a50b-accba760204a" />
-
-*Tendência Diária*
-
-<img width="1431" height="807" alt="image" src="https://github.com/user-attachments/assets/d846f9d5-56ec-407e-919d-0ea34ba75088" />
 
 ---
 
@@ -199,11 +188,17 @@ O dashboard foi dividido em 3 páginas principais:
 ### 1. Executive Overview
 Visão geral das métricas principais, linha de receita, funil de compra e top produtos por receita.
 
+<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/dd4ba62a-dc49-4ba3-9380-36d3f08c4f16" />
+
 ### 2. Product Performance
 Análise detalhada dos produtos mais vistos, adicionados ao carrinho, comprados, mais rentáveis e marcas com melhor desempenho.
 
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/a49f92ba-3548-4408-a50b-accba760204a" />
+
 ### 3. Daily Trend
 Análise de tendência diária de usuários, sessões, receita, pedidos, page views e conversão.
+
+<img width="1431" height="807" alt="image" src="https://github.com/user-attachments/assets/d846f9d5-56ec-407e-919d-0ea34ba75088" />
 
 ---
 
