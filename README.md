@@ -1,4 +1,4 @@
-# GA4 E-commerce Analytics
+# GA4 E-commerce Analytics using BigQuery
 
 ## Português
 
