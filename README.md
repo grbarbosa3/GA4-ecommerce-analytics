@@ -1,7 +1,6 @@
 # GA4 E-commerce Analytics using BigQuery
 
-##### <img width="39" height="28" alt="image" src="https://github.com/user-attachments/assets/70106d8f-6520-4364-a0a2-be00ac38d378" />
-*English version below*⬇️
+##### 🇺🇸*English version below*⬇️
 
 ## Visão geral
 
