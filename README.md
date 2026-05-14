@@ -1,3 +1,5 @@
+<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/dd4ba62a-dc49-4ba3-9380-36d3f08c4f16" />
+
 # GA4 E-commerce Analytics com BigQuery
 #### GA4 E-commerce Analytics using BigQuery
 
@@ -47,14 +49,22 @@ Dataset público do BigQuery com eventos de e-commerce em GA4:
 ## Etapas do trabalho
 
 ### 1. Exploração da base bruta
+
 A base original foi analisada diretamente no BigQuery para entender sua estrutura de eventos, parâmetros aninhados e itens de produto.
 
+<img width="1424" height="699" alt="image" src="https://github.com/user-attachments/assets/81398a6c-be46-4a2e-b942-4457c334c1c1" />
+
 ### 2. Tratamento dos dados
+
+<img width="292" height="242" alt="image" src="https://github.com/user-attachments/assets/f369868b-3d70-4542-9518-4b1166b91dfa" />
+
 Foram criadas tabelas de apoio no BigQuery para organizar os dados em camadas mais utilizáveis:
 
 **Camada raw**
 - `events_base`
 - `items_base`
+- 
+<img width="285" height="92" alt="image" src="https://github.com/user-attachments/assets/4f7de12a-570a-45b9-bd47-29af44d6cd6e" />
 
 **Camada analytics**
 - `daily_kpis`
@@ -62,8 +72,21 @@ Foram criadas tabelas de apoio no BigQuery para organizar os dados em camadas ma
 - `funnel_summary`
 - `overview_summary`
 
+<img width="299" height="157" alt="image" src="https://github.com/user-attachments/assets/fb5e3c92-5be4-48f9-8b43-3bb172452a2e" />
+  
 ### 3. Visualização
 As tabelas analíticas foram conectadas ao Power BI para construção do dashboard final.
+*Visão Geral*
+
+<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/dd4ba62a-dc49-4ba3-9380-36d3f08c4f16" />
+
+*Análise de Produtos*
+
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/a49f92ba-3548-4408-a50b-accba760204a" />
+
+*Tendência Diária*
+
+<img width="1431" height="807" alt="image" src="https://github.com/user-attachments/assets/d846f9d5-56ec-407e-919d-0ea34ba75088" />
 
 ---
 
