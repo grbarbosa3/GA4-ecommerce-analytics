@@ -1,7 +1,7 @@
 # GA4 E-commerce Analytics com BigQuery
 #### GA4 E-commerce Analytics using BigQuery
 
-##### 🇺🇸*English version below*⬇️
+##### 🇺🇸 *English version below*⬇️
 
 ## Visão geral
 
@@ -205,7 +205,7 @@ Com este projeto, pratiquei:
 
 ---
 
-## English
+## English Version 🇺🇸
 
 ## Overview
 
